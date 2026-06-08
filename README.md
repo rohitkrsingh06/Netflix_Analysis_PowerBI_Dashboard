@@ -1,8 +1,7 @@
 # Netflix Analysis Dashboard
 
 ## Project Overview
-This Power BI dashboard provides an analysis of Netflix content using various visualizations.
-It helps understand content distribution, genres, ratings, release trends,and country-wise availability.
+This Power BI dashboard analyzes Netflix movies and TV shows to provide insights into content distribution, ratings, genres, countries, and release trends.
 
 ## Tools Used
 - Power BI
@@ -10,17 +9,16 @@ It helps understand content distribution, genres, ratings, release trends,and co
 
 ## Key Insights
 - Total Movies and TV Shows
-- Content distribution by type
-- Top genres available on Netflix
-- Rating-wise content analysis
-- Country-wise content distribution
-- Release year trend analysis
+- Content Distribution by Type
+- Top Genres on Netflix
+- Rating-wise Analysis
+- Country-wise Content Distribution
+- Release Year Trends
 
 ## Files Included
-- Netflix_Analysis_Dashboard.pbix
-- Dashboard.png
-- README.md
+- Netflix_Analysis.pbix
+- Netflix_Dashboard.png
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Netflix_Dashboard.png)
