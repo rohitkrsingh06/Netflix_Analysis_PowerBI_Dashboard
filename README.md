@@ -22,7 +22,4 @@ It helps understand content distribution, genres, ratings, release trends,and co
 - README.md
 
 ## Dashboard Preview
-
-## Dashboard Preview
-
 ![Dashboard](Dashboard.png)
